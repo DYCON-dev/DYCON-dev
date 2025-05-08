@@ -24,22 +24,28 @@
 [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube)](https://youtube.com/@DYCON-dev)
 [![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ton_username@gmail.com)
 
+## 💻 Projet Open Souce 
 
 ## 💻 Projet
 
-<div align="center">
-  <div style="display: inline-block; background-color: #0d1117; padding: 20px; margin: 10px; border-radius: 10px; width: 300px; vertical-align: top;">
-    <h3 style="color: #58a6ff;">🎨 Projet UI</h3>
-    <p style="color: #c9d1d9;">Refonte complète de l'interface pour une plateforme e-learning.</p>
-    <a href="https://github.com/DYCON-dev/Projet-UI" style="color: #58a6ff;">Voir le projet</a>
-  </div>
-
-  <div style="display: inline-block; background-color: #161b22; padding: 20px; margin: 10px; border-radius: 10px; width: 300px; vertical-align: top;">
-    <h3 style="color: #ffa657;">🧠 Projet IA</h3>
-    <p style="color: #c9d1d9;">Assistant GPT-4 intégré dans un outil de productivité personnel.</p>
-    <a href="https://github.com/DYCON-dev/Projet-IA" style="color: #ffa657;">Voir le projet</a>
-  </div>
-</div>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <div style="background-color: #0d1117; padding: 20px; border-radius: 10px;">
+        <h3 style="color: #79c0ff;">🎨 Projet UI</h3>
+        <p style="color: #c9d1d9;">Refonte complète de l'interface pour une plateforme e-learning.</p>
+        <a href="https://github.com/DYCON-dev/Projet-UI" style="color: #58a6ff;">Voir le projet</a>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <div style="background-color: #161b22; padding: 20px; border-radius: 10px;">
+        <h3 style="color: #ffa657;">🧠 Projet IA</h3>
+        <p style="color: #c9d1d9;">Assistant GPT-4 intégré dans un outil de productivité personnel.</p>
+        <a href="https://github.com/DYCON-dev/Projet-IA" style="color: #ffa657;">Voir le projet</a>
+      </div>
+    </td>
+  </tr>
+</table>
 
 ## 💻 Stack technique
 
