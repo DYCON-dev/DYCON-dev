@@ -1,121 +1,111 @@
-<!-- Banner -->
+<!-- README GitHub Profil COMPLET -->
+
+<!-- Bannière -->
 <p align="center">
-  <img src="https://yourdomain.com/your-banner.gif" alt="Banner" width="800"/>
+  <img src="https://yourdomain.com/banner.gif" alt="Banner" width="800"/>
 </p>
 
-<!-- Greeting -->
-<h1 align="center">Salut, je suis <a href="https://github.com/MonUsername">Mon Prénom</a> 👋</h1>
+# 👋 Bonjour, moi c'est **TON_USERNAME** !
+
+- 🎓 Développeur full-stack & étudiant en informatique.
+- 🌱 J’apprends actuellement **Rust** et **Go**.
+- 🚀 Je travaille sur un projet de **site web personnel**.
+- ⚡ Fun fact : J’adore le café et coder tard la nuit.
+
+## 🌐 Me contacter
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TON_USERNAME) 
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/TON_USERNAME) 
+[![Dev.to](https://img.shields.io/badge/-Dev.to-0A0A0A?style=flat&logo=dev.to&logoColor=white)](https://dev.to/TON_USERNAME) 
+[![Medium](https://img.shields.io/badge/-Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@TON_USERNAME) 
+[![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ton_username@gmail.com)
+
+## 💻 Technologies & Outils
+
+**Langages :** ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)  
+**Frameworks & Bibliothèques :** ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)  
+**Bases de données :** ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)  
+**Outils :** ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+## 📊 Statistiques GitHub
+
 <p align="center">
-  <em>Développeur Full-Stack | Passionné de JavaScript, Python & Cloud ☁️</em>
+  <img src="https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&locale=fr&theme=tokyonight&hide_border=true" alt="Statistiques GitHub" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=TON_USERNAME&locale=fr&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
-
-<!-- Socials & Badges -->
 <p align="center">
-  <a href="mailto:mon.email@example.com">
-    <img src="https://img.shields.io/badge/Email-mon.email%40example.com-blue?style=flat-square&logo=gmail" alt="Email"/>
-  </a>
-  <a href="https://linkedin.com/in/MonUsername">
-    <img src="https://img.shields.io/badge/LinkedIn-MonUsername-blue?style=flat-square&logo=linkedin" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/MonUsername">
-    <img src="https://img.shields.io/badge/Twitter-@MonUsername-1DA1F2?style=flat-square&logo=twitter" alt="Twitter"/>
-  </a>
-  <a href="https://discord.gg/tonserveur">
-    <img src="https://img.shields.io/badge/Discord-MonServeur-7289DA?style=flat-square&logo=discord" alt="Discord"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME&layout=compact&locale=fr&theme=tokyonight&hide_border=true" alt="Langages les plus utilisés" />
 </p>
 
-<!-- Tech Stack -->
-## 🛠️ Tech & Tools  
-<p>
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code" alt="VSCode"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react" alt="React"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python" alt="Python"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker" alt="Docker"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws" alt="AWS"/>
-</p>
+## 🚀 Projets
 
-<!-- GitHub Stats -->
-## 📊 Mes Stats GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MonUsername&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MonUsername&theme=radical" alt="Streak Stats"/>
-</p>
+| [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=TON_USERNAME&repo=ProjetDemo1&theme=tokyonight&hide_border=true)](https://github.com/TON_USERNAME/ProjetDemo1) | [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=TON_USERNAME&repo=ProjetDemo2&theme=tokyonight&hide_border=true)](https://github.com/TON_USERNAME/ProjetDemo2) |
+|---|---|
+| [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=TON_USERNAME&repo=ProjetDemo3&theme=tokyonight&hide_border=true)](https://github.com/TON_USERNAME/ProjetDemo3) | [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=TON_USERNAME&repo=ProjetDemo4&theme=tokyonight&hide_border=true)](https://github.com/TON_USERNAME/ProjetDemo4) |
 
-<!-- Top Languages -->
-## 🏆 Top Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MonUsername&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
-
-<!-- Visitor Counter -->
-<p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=MonUsername.MonUsername" alt="Visitor Badge"/>
-</p>
-
-<!-- Pinned Repos -->
-## 📌 Projets Épinglés
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/MonUsername/MonProjet1">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MonUsername&repo=MonProjet1&theme=radical" alt="MonProjet1"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/MonUsername/MonProjet2">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MonUsername&repo=MonProjet2&theme=radical" alt="MonProjet2"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/MonUsername/MonProjet3">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MonUsername&repo=MonProjet3&theme=radical" alt="MonProjet3"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
-<!-- WakaTime -->
 <details>
-  <summary>⌚ Temps de code (WakaTime)</summary>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MonUsername&range=last_7_days&theme=radical" alt="WakaTime"/>
-  </p>
+  <summary>📁 Projets secondaires</summary>
+
+  - [ProjetArchivage](https://github.com/TON_USERNAME/ProjetArchivage) – Un outil de sauvegarde automatisée.
+  - [AncienProjet](https://github.com/TON_USERNAME/AncienProjet) – Application console en C.
 </details>
 
-<!-- Spotify Now Playing -->
-<details>
-  <summary>🎧 En ce moment (Spotify)</summary>
-  <p>
-    <img src="https://spotify-now-playing.vercel.app/api/spotify?user=MonUsername&size=compact&theme=black" alt="Spotify Now Playing"/>
-  </p>
-</details>
+## ⏱️ Temps de code cette semaine
 
-<!-- Blog Posts -->
-## 📰 Mes Derniers Articles
-<!--
-Un GitHub Action peut mettre à jour automatiquement cette liste via RSS.
-Exemple de liste statique :
--->
-- [Comment optimiser vos builds Webpack en 5 minutes](https://monblog.com/optimiser-webpack)  
-- [Introduction à Serverless avec AWS Lambda](https://monblog.com/serverless-lambda)  
-- [10 astuces pour écrire du JavaScript performant](https://monblog.com/js-perf)
+<!--START_SECTION:waka-->
+```text
+TypeScript   12 hrs 30 mins ██████████ 50.0%  
+JavaScript   8 hrs 15 mins  ██████████ 33.3%  
+HTML         2 hrs 45 mins  ███ 11.1%  
+CSS          1 hr 0 min     █ 4.2%  
+Autres       0 hr 30 mins   - 1.4%
+```
+<!--END_SECTION:waka-->
 
-<!-- Collapsible: Autres projets -->
-<details>
-  <summary>🔎 Voir tous mes projets</summary>
-  
-  | Projet        | Description                          | Stars |
-  | ------------- | ------------------------------------ | :---: |
-  | MonProjet4    | API RESTful avec Node.js & Express   |  ⭐ 45 |
-  | MonProjet5    | Application mobile Flutter           |  ⭐ 30 |
-  | MonProjet6    | Bot Discord en Python                |  ⭐ 25 |
-  | MonProjet7    | Chatbot IA avec GPT-4 et Streamlit   |  ⭐ 15 |
-</details>
+## 🎵 En ce moment j'écoute
+
+[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/collection/tracks)
+
+## 📈 Métriques GitHub
+
+<p align="center">
+  <img src="https://metrics.lecoq.io/TON_USERNAME?template=classic&languages=1&achievements=1&notable=1&config.timezone=Europe%2FParis" alt="Metrics GitHub TON_USERNAME" />
+</p>
+
+## 🐍 Jeu du serpent
+
+![Snake animation](https://raw.githubusercontent.com/TON_USERNAME/TON_USERNAME/output/github-contribution-grid-snake.svg)
+
+## 🨂 Une blague au hasard
+
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight)
+
+## 📝 Derniers articles de blog
+
+- [Comment j’ai migré mon application vers React 18](https://dev.to/TON_USERNAME/article-1) – *Dev.to, 2025*
+- [Les 10 extensions VS Code indispensables](https://medium.com/@TON_USERNAME/article-2) – *Medium, 2024*
+- [Comprendre les Web Components en 5 minutes](https://TON_USERNAME.github.io/blog/article-3) – *Blog Personnel, 2023*
+
+## 🏌️ Statistiques CodeWars et LeetCode
+
+- **LeetCode** : [![LeetCode Stats](https://leetcode-badge-sage.vercel.app/badge/TON_USERNAME?theme=dark)](https://leetcode.com/TON_USERNAME)
+- **CodeWars** : [![CodeWars Badge](https://www.codewars.com/users/TON_USERNAME/badges/large)](https://www.codewars.com/users/TON_USERNAME)
+
+## ☕ Supportez-moi
+
+Si vous aimez mon travail, vous pouvez m’offrir un café pour me soutenir 🙂  
+[![Buy Me a Coffee](https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/TON_USERNAME)
+
+## 💬 Livre d'or
+
+📬 *Laissez-moi un petit message en [signant mon livre d'or](https://github.com/TON_USERNAME/TON_USERNAME/issues/1)!*
+
+## 🖥️ Animation de terminal
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TON_USERNAME/TON_USERNAME/main/assets/terminal.gif" alt="animation du terminal" />
+</p>
 
 ---
 
-<p align="center">
-  Made with ❤️ by <a href="https://github.com/MonUsername">MonUsername</a>
-</p>
+![Visiteurs](https://komarev.com/ghpvc/?username=TON_USERNAME&label=Visiteurs&color=yellow)
