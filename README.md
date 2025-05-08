@@ -28,21 +28,24 @@
 
 ## 💻 Projet
 
-<div align="center" style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap;">
-
-  <div style="background-color: #1e1e2f; padding: 20px; border-radius: 10px; width: 300px;">
-    <h3 style="color: #58a6ff;">🎨 Projet UI</h3>
-    <p style="color: #ccc;">Un projet de refonte complète d'interface utilisateur pour une plateforme e-learning.</p>
-    <a href="https://github.com/DYCON-dev/Projet-UI" style="color: #58a6ff;">Voir le projet</a>
-  </div>
-
-  <div style="background-color: #2e2f3e; padding: 20px; border-radius: 10px; width: 300px;">
-    <h3 style="color: #f97583;">🧠 Projet IA</h3>
-    <p style="color: #ccc;">Un assistant virtuel basé sur GPT-4 intégré à un outil de productivité personnel.</p>
-    <a href="https://github.com/DYCON-dev/Projet-IA" style="color: #f97583;">Voir le projet</a>
-  </div>
-
-</div>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <div style="background-color: #0d1117; padding: 20px; border-radius: 10px;">
+        <h3 style="color: #79c0ff;">🎨 Projet UI</h3>
+        <p style="color: #c9d1d9;">Refonte complète de l'interface pour une plateforme e-learning.</p>
+        <a href="https://github.com/DYCON-dev/Projet-UI" style="color: #58a6ff;">Voir le projet</a>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <div style="background-color: #161b22; padding: 20px; border-radius: 10px;">
+        <h3 style="color: #ffa657;">🧠 Projet IA</h3>
+        <p style="color: #c9d1d9;">Assistant GPT-4 intégré dans un outil de productivité personnel.</p>
+        <a href="https://github.com/DYCON-dev/Projet-IA" style="color: #ffa657;">Voir le projet</a>
+      </div>
+    </td>
+  </tr>
+</table>
 
 ## 💻 Stack technique
 
