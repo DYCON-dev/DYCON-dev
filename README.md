@@ -2,7 +2,21 @@
 
 <!-- Bannière & Animation typing -->
 <p align="center">
-  <img src="./img/ban.png" alt="Banner" width="100%"/>
+  <img src="./img/ban.png" alt="Banner" width="100%" style="border-radius: 12px;"/>
+</p>
+
+<h2 align="center">🙋‍♂️ Qui je suis</h2>
+
+<p align="center">
+  Je suis DYCON-dev, un développeur full-stack passionné par l'open-source, la technologie, et les projets créatifs.
+</p>
+
+<p align="center">
+  🔗 Retrouve-moi sur :
+  <a href="https://linkedin.com/in/DYCON-dev">LinkedIn</a> ·
+  <a href="https://twitter.com/DYCON-dev">Twitter</a> ·
+  <a href="mailto:ton_username@gmail.com">Email</a> ·
+  <a href="https://dev.to/DYCON-dev">Dev.to</a>
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Bienvenue+sur+le+profil+de+DYCON-dev;Développeur+Full+Stack;Open+Source,+Tech+&+Café&center=true&width=600&height=45"/>
