@@ -1,23 +1,20 @@
-<!-- banner.svg -->
-<svg width="800" height="200" xmlns="http://www.w3.org/2000/svg">
-  <!-- Fond dégradé -->
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="200">
   <defs>
     <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#4e54c8;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#8f94fb;stop-opacity:1" />
+      <stop offset="0%" stop-color="#4e54c8"/>
+      <stop offset="100%" stop-color="#8f94fb"/>
     </linearGradient>
   </defs>
   <rect width="800" height="200" fill="url(#grad1)" rx="15" ry="15"/>
-
-  <!-- Texte principal -->
+  <!-- Le texte principal : on remplace __TITLE__ par ce qu’on veut -->
   <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
-        font-family="Arial, sans-serif" font-size="36" fill="#ffffff">
-    Bienvenue sur mon profil GitHub !
+        font-family="Arial, sans-serif" font-size="36" fill="#fff">
+    __TITLE__
   </text>
-
-  <!-- Petite légende -->
+  <!-- Le sous-texte -->
   <text x="50%" y="75%" dominant-baseline="middle" text-anchor="middle"
         font-family="Arial, sans-serif" font-size="18" fill="#e0e0e0">
-    🚀 Passionné·e de code | 🌍 Open source addict
+    __SUBTITLE__
   </text>
 </svg>
