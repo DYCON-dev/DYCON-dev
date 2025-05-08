@@ -1,111 +1,115 @@
-<!-- README GitHub Profil COMPLET -->
+<!-- README GitHub Profil HYPER-COMPLET -->
 
-<!-- Bannière -->
+<!-- Bannière & Animation typing -->
 <p align="center">
   <img src="https://yourdomain.com/banner.gif" alt="Banner" width="800"/>
 </p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Bienvenue+sur+le+profil+de+DYCON-dev;Développeur+Full+Stack;Open+Source,+Tech+&+Café&center=true&width=600&height=45"/>
+</p>
 
-# 👋 Bonjour, moi c'est **TON_USERNAME** !
+# 👋 Hello, moi c’est **DYCON-dev**
 
-- 🎓 Développeur full-stack & étudiant en informatique.
-- 🌱 J’apprends actuellement **Rust** et **Go**.
-- 🚀 Je travaille sur un projet de **site web personnel**.
-- ⚡ Fun fact : J’adore le café et coder tard la nuit.
+- 🚀 Développeur full-stack passionné par l’innovation
+- 🧠 J’adore résoudre des problèmes complexes
+- 🛠️ Je travaille sur plusieurs projets open-source et personnels
+- 🍕 Je suis toujours partant pour une pizza code night
 
-## 🌐 Me contacter
+## 🌐 Liens & Réseaux
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TON_USERNAME) 
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/TON_USERNAME) 
-[![Dev.to](https://img.shields.io/badge/-Dev.to-0A0A0A?style=flat&logo=dev.to&logoColor=white)](https://dev.to/TON_USERNAME) 
-[![Medium](https://img.shields.io/badge/-Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@TON_USERNAME) 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/DYCON-dev)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter)](https://twitter.com/DYCON-dev)
+[![Dev.to](https://img.shields.io/badge/-Dev.to-0A0A0A?style=flat&logo=dev.to)](https://dev.to/DYCON-dev)
+[![Medium](https://img.shields.io/badge/-Medium-12100E?style=flat&logo=medium)](https://medium.com/@DYCON-dev)
+[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube)](https://youtube.com/@DYCON-dev)
 [![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ton_username@gmail.com)
 
-## 💻 Technologies & Outils
+## 💻 Stack technique
 
-**Langages :** ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)  
-**Frameworks & Bibliothèques :** ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)  
-**Bases de données :** ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)  
-**Outils :** ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
-## 📊 Statistiques GitHub
+| Langages       | Frameworks        | Outils & Cloud     |
+|----------------|-------------------|---------------------|
+| JavaScript, TS | React, Angular    | Git, Docker, AWS    |
+| Python, Java   | Node.js, Express  | Firebase, Supabase  |
+| HTML, CSS, SQL | Vue, Next.js      | GitHub Actions, CI  |
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&locale=fr&theme=tokyonight&hide_border=true" alt="Statistiques GitHub" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=TON_USERNAME&locale=fr&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,vue,python,java,html,css,nodejs,docker,aws,git,firebase"/>
 </p>
+
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME&layout=compact&locale=fr&theme=tokyonight&hide_border=true" alt="Langages les plus utilisés" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DYCON-dev&theme=tokyonight&show_icons=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DYCON-dev&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DYCON-dev&layout=compact&theme=tokyonight"/>
 </p>
 
-## 🚀 Projets
+## 🧠 LeetCode / CodeWars / Stack Overflow
 
-| [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=TON_USERNAME&repo=ProjetDemo1&theme=tokyonight&hide_border=true)](https://github.com/TON_USERNAME/ProjetDemo1) | [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=TON_USERNAME&repo=ProjetDemo2&theme=tokyonight&hide_border=true)](https://github.com/TON_USERNAME/ProjetDemo2) |
-|---|---|
-| [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=TON_USERNAME&repo=ProjetDemo3&theme=tokyonight&hide_border=true)](https://github.com/TON_USERNAME/ProjetDemo3) | [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=TON_USERNAME&repo=ProjetDemo4&theme=tokyonight&hide_border=true)](https://github.com/TON_USERNAME/ProjetDemo4) |
+- [![LeetCode Stats](https://leetcard.jacoblin.cool/DYCON-dev)](https://leetcode.com/DYCON-dev)
+- [![CodeWars Badge](https://www.codewars.com/users/DYCON-dev/badges/large)](https://www.codewars.com/users/DYCON-dev)
+- ![Stack Overflow](https://img.shields.io/badge/StackOverflow-Expert-orange?style=flat&logo=stackoverflow)
 
-<details>
-  <summary>📁 Projets secondaires</summary>
+## 🐍 Animation Contributions
 
-  - [ProjetArchivage](https://github.com/TON_USERNAME/ProjetArchivage) – Un outil de sauvegarde automatisée.
-  - [AncienProjet](https://github.com/TON_USERNAME/AncienProjet) – Application console en C.
-</details>
+![Snake animation](https://github.com/DYCON-dev/DYCON-dev/blob/output/github-contribution-grid-snake.svg)
 
-## ⏱️ Temps de code cette semaine
+## 📆 Calendrier de contributions
+
+<a href="https://github.com/DYCON-dev"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=DYCON-dev&theme=github-compact"/></a>
+
+## 🏅 Trophées GitHub
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=DYCON-dev&theme=onedark&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+
+## 📈 GitHub Metrics Dashboard
+
+![Metrics](https://metrics.lecoq.io/DYCON-dev?template=classic&languages=1&stars=1&lines=1&activity=1&followup=1&achievements=1)
+
+## 🎧 Spotify Now
+
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=DYCON-dev&cover_image=true&theme=novatorem)](https://open.spotify.com/user/DYCON-dev)
+
+## ⌛ WakaTime - Code Time
 
 <!--START_SECTION:waka-->
 ```text
-TypeScript   12 hrs 30 mins ██████████ 50.0%  
-JavaScript   8 hrs 15 mins  ██████████ 33.3%  
-HTML         2 hrs 45 mins  ███ 11.1%  
-CSS          1 hr 0 min     █ 4.2%  
-Autres       0 hr 30 mins   - 1.4%
+Ajouter l’action GitHub waka-readme pour afficher les stats hebdo
 ```
 <!--END_SECTION:waka-->
 
-## 🎵 En ce moment j'écoute
+## 📹 Dernière vidéo YouTube
 
-[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/collection/tracks)
+[![YouTube](https://img.shields.io/badge/-Ma%20Dernière%20Vidéo-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@DYCON-dev)
 
-## 📈 Métriques GitHub
+[![Dernière vidéo](https://img.youtube.com/vi/VID_ID/hqdefault.jpg)](https://youtube.com/watch?v=VID_ID)
 
-<p align="center">
-  <img src="https://metrics.lecoq.io/TON_USERNAME?template=classic&languages=1&achievements=1&notable=1&config.timezone=Europe%2FParis" alt="Metrics GitHub TON_USERNAME" />
-</p>
+## 🤣 Blague tech aléatoire
 
-## 🐍 Jeu du serpent
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
 
-![Snake animation](https://raw.githubusercontent.com/TON_USERNAME/TON_USERNAME/output/github-contribution-grid-snake.svg)
+## 📚 Derniers articles
 
-## 🨂 Une blague au hasard
+- [🔗 Article Dev.to](https://dev.to/DYCON-dev)
+- [📝 Medium](https://medium.com/@DYCON-dev)
+- [🖋️ Blog perso](https://DYCON-dev.github.io/blog)
 
-![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight)
+## ☕ Dons
 
-## 📝 Derniers articles de blog
-
-- [Comment j’ai migré mon application vers React 18](https://dev.to/TON_USERNAME/article-1) – *Dev.to, 2025*
-- [Les 10 extensions VS Code indispensables](https://medium.com/@TON_USERNAME/article-2) – *Medium, 2024*
-- [Comprendre les Web Components en 5 minutes](https://TON_USERNAME.github.io/blog/article-3) – *Blog Personnel, 2023*
-
-## 🏌️ Statistiques CodeWars et LeetCode
-
-- **LeetCode** : [![LeetCode Stats](https://leetcode-badge-sage.vercel.app/badge/TON_USERNAME?theme=dark)](https://leetcode.com/TON_USERNAME)
-- **CodeWars** : [![CodeWars Badge](https://www.codewars.com/users/TON_USERNAME/badges/large)](https://www.codewars.com/users/TON_USERNAME)
-
-## ☕ Supportez-moi
-
-Si vous aimez mon travail, vous pouvez m’offrir un café pour me soutenir 🙂  
-[![Buy Me a Coffee](https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/TON_USERNAME)
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-yellow?style=flat&logo=buymeacoffee)](https://www.buymeacoffee.com/DYCON-dev)
+[![Ko-Fi](https://img.shields.io/badge/Ko--fi-blue?style=flat&logo=ko-fi&logoColor=white)](https://ko-fi.com/DYCON-dev)
 
 ## 💬 Livre d'or
 
-📬 *Laissez-moi un petit message en [signant mon livre d'or](https://github.com/TON_USERNAME/TON_USERNAME/issues/1)!*
+📬 [Signer mon livre d'or ici](https://github.com/DYCON-dev/DYCON-dev/issues/1)
 
-## 🖥️ Animation de terminal
+## 🖥️ Animation terminal ASCII
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TON_USERNAME/TON_USERNAME/main/assets/terminal.gif" alt="animation du terminal" />
+  <img src="https://github.com/saadeghi/saadeghi/raw/master/terminal.gif" width="600"/>
 </p>
 
 ---
 
-![Visiteurs](https://komarev.com/ghpvc/?username=TON_USERNAME&label=Visiteurs&color=yellow)
+![Visiteurs](https://komarev.com/ghpvc/?username=DYCON-dev&style=flat&color=blue)
+
