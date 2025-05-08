@@ -31,7 +31,7 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <div style="background-color: #0d1117; padding: 20px; border-radius: 10px;">
+      <div style="background-color: #ff4d4d; padding: 20px; border-radius: 10px;">
         <svg width="20" height="20" style="vertical-align: middle; margin-right: 10px;">
           <rect width="20" height="20" style="fill:#58a6ff;" />
         </svg><h3 style="color: #79c0ff; display: inline;">🎨 Projet UI</h3>
@@ -40,7 +40,7 @@
       </div>
     </td>
     <td width="50%" valign="top">
-      <div style="background-color: #161b22; padding: 20px; border-radius: 10px;">
+      <div style="background-color: #4d94ff; padding: 20px; border-radius: 10px;">
         <svg width="20" height="20" style="vertical-align: middle; margin-right: 10px;">
           <rect width="20" height="20" style="fill:#ffa657;" />
         </svg><h3 style="color: #ffa657; display: inline;">🧠 Projet IA</h3>
