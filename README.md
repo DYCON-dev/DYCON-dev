@@ -2,7 +2,7 @@
 
 <!-- Bannière & Animation typing -->
 <p align="center">
-  <img src="./img/ban" alt="Banner" width="800"/>
+  <img src="./img/ban.png" alt="Banner" width="100%"/>
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Bienvenue+sur+le+profil+de+DYCON-dev;Développeur+Full+Stack;Open+Source,+Tech+&+Café&center=true&width=600&height=45"/>
