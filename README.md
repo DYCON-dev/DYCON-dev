@@ -32,18 +32,14 @@
   <tr>
     <td width="50%" valign="top">
       <div style="background-color: #ff4d4d; padding: 20px; border-radius: 10px;">
-        <svg width="20" height="20" style="vertical-align: middle; margin-right: 10px;">
-          <rect width="20" height="20" style="fill:#58a6ff;" />
-        </svg><h3 style="color: #79c0ff; display: inline;">🎨 Projet UI</h3>
+        <img src="https://via.placeholder.com/20/ff4d4d/ff4d4d" width="20" height="20" style="vertical-align: middle; margin-right: 10px;" /><h3 style="color: #79c0ff; display: inline;">🎨 Projet UI</h3>
         <p style="color: #c9d1d9;">Refonte complète de l'interface pour une plateforme e-learning.</p>
         <a href="https://github.com/DYCON-dev/Projet-UI" style="color: #58a6ff;">Voir le projet</a>
       </div>
     </td>
     <td width="50%" valign="top">
       <div style="background-color: #4d94ff; padding: 20px; border-radius: 10px;">
-        <svg width="20" height="20" style="vertical-align: middle; margin-right: 10px;">
-          <rect width="20" height="20" style="fill:#ffa657;" />
-        </svg><h3 style="color: #ffa657; display: inline;">🧠 Projet IA</h3>
+        <img src="https://via.placeholder.com/20/4d94ff/4d94ff" width="20" height="20" style="vertical-align: middle; margin-right: 10px;" /><h3 style="color: #ffa657; display: inline;">🧠 Projet IA</h3>
         <p style="color: #c9d1d9;">Assistant GPT-4 intégré dans un outil de productivité personnel.</p>
         <a href="https://github.com/DYCON-dev/Projet-IA" style="color: #ffa657;">Voir le projet</a>
       </div>
