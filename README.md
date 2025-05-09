@@ -1,4 +1,4 @@
-![Test Fond Image](https://readme-chic-banner.wolfbrok.workers.dev/?template=fancy&w=800&h=200&bgImageUrl=https://www.francetvinfo.fr/pictures/7Mfddh0ZuJ34J74t_GbJD1aGjlg/1200x900/2022/05/11/phpnHw2Eo.jpg&borderRadius=20&borderWidth=5&borderColor=%23ff0000&title=Test&subtitle=SVG)
+![Test Fond Image](https://readme-chic-banner.wolfbrok.workers.dev/?template=fancy&w=800&h=200&bgImageUrl=https%3A%2F%2Fwww.francetvinfo.fr%2Fpictures%2F7Mfddh0ZuJ34J74t_GbJD1aGjlg%2F1200x900%2F2022%2F05%2F11%2FphpnHw2Eo.jpg&borderRadius=20&title=Inline%20Image&subtitle=Test&borderWidth=4&borderColor=%23000000)
 
 <!-- 1. Bordure intérieure verte épaisse, texte à gauche -->
 ![Fancy SVG – Border Intérieure Vert, Left](https://readme-chic-banner.wolfbrok.workers.dev/?template=fancy&w=800&h=200&bgImageUrl=https%3A%2F%2Fwww.francetvinfo.fr%2Fpictures%2F7Mfddh0ZuJ34J74t_GbJD1aGjlg%2F1200x900%2F2022%2F05%2F11%2FphpnHw2Eo.jpg&borderRadius=20)
