@@ -1,4 +1,4 @@
-![Banner Inline BG](https://readme-chic-banner.wolfbrok.workers.dev/?template=fancy&w=800&h=200&bgImageUrl=https://www.francetvinfo.fr/pictures/7Mfddh0ZuJ34J74t_GbJD1aGjlg/1200x900/2022/05/11/phpnHw2Eo.jpg&borderRadius=20&borderWidth=4&borderColor=%23000000&title=Inline%20BG&subtitle=GitHub%20Test)
+![Fancy Banner](https://readme-chic-banner.wolfbrok.workers.dev/?template=fancy&w=800&h=200&bgImageUrl=https://www.francetvinfo.fr/pictures/7Mfddh0ZuJ34J74t_GbJD1aGjlg/1200x900/2022/05/11/phpnHw2Eo.jpg&borderRadius=20&borderWidth=4&borderColor=%23000000&title=Test%20Image&subtitle=GitHub)
 <!-- 1. Bordure intérieure verte épaisse, texte à gauche -->
 ![Fancy SVG – Border Intérieure Vert, Left](https://readme-chic-banner.wolfbrok.workers.dev/?template=fancy&w=800&h=200&bgImageUrl=https://www.francetvinfo.fr/pictures/7Mfddh0ZuJ34J74t_GbJD1aGjlg/1200x900/2022/05/11/phpnHw2Eo.jpg&borderRadius=20&title=Inline%20Image&subtitle=Test&borderWidth=4&borderColor=%23000000)
 
