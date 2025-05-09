@@ -2,5 +2,8 @@
 
 
 
+![Small Badge](https://readme-chic-banner.wolfbrok.workers.dev/?template=badge&size=small&bgImageUrl=https%3A%2F%2Fvia.placeholder.com%2F40&text=Small%20Badge&bgColor=%23f1f2f4&textColor=%23090a0b&borderRadius=b2&borderWidth=2&borderStyle=solid&contentAlign=center)
 
-![Dashed Border](https://readme-chic-banner.wolfbrok.workers.dev/?template=badge&size=medium&bgImageUrl=…&text=Hello&borderRadius=b2)
+![Medium Badge](https://readme-chic-banner.wolfbrok.workers.dev/?template=badge&size=medium&bgImageUrl=https%3A%2F%2Fvia.placeholder.com%2F56&text=Medium%20Badge&bgColor=%23d4d4d8&textColor=%23040712&borderRadius=b3&borderWidth=4&borderStyle=dashed&contentAlign=center)
+
+![Large Badge](https://readme-chic-banner.wolfbrok.workers.dev/?template=badge&size=large&bgImageUrl=https%3A%2F%2Fvia.placeholder.com%2F72&text=Large%20Badge&bgColor=%23131D2E&textColor=%23BFCCDB&borderRadius=b4&borderWidth=6&borderStyle=solid&contentAlign=center)
