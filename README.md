@@ -2,3 +2,5 @@
 
 
 ![Badge Small dynamique](https://readme-chic-banner.wolfbrok.workers.dev/?template=badge&size=small&bgImageUrl=https%3A%2F%2Fraw.githubusercontent.com%2FDYCON-dev%2FDYCON-dev%2Fmain%2FNestWarediscord.png&text=NestWare&borderRadius=b2)
+![Badge Small dynamique](https://readme-chic-banner.wolfbrok.workers.dev/?template=badge&size=medium&bgImageUrl=https%3A%2F%2Fraw.githubusercontent.com%2FDYCON-dev%2FDYCON-dev%2Fmain%2FNestWarediscord.png&text=NestWare&borderRadius=b2)
+![Badge Small dynamique](https://readme-chic-banner.wolfbrok.workers.dev/?template=badge&size=large&bgImageUrl=https%3A%2F%2Fraw.githubusercontent.com%2FDYCON-dev%2FDYCON-dev%2Fmain%2FNestWarediscord.png&text=NestWare&borderRadius=b2)
