@@ -1,1 +1,17 @@
-![Bannière de test](https://readme-chic-banner.wolfbrok.workers.dev/banner?title=Hello&subtitle=World)
+<p align="center">
+  <img
+    src="https://readme-chic-banner.wolfbrok.workers.dev/banner
+      ?w=900
+      &h=250
+      &c1=%23ff4e50
+      &c2=%23f9d423
+      &r=30
+      &title=Dycon%20le%20Magicien
+      &subtitle=Développeur%20%26%20Designer
+      &fs1=48
+      &fs2=24
+      &font=Verdana
+      &col1=%23fff8e1
+      &col2=%23e5c07b"
+    alt="Bannière personnalisée Dycon" />
+</p>
