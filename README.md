@@ -1,6 +1,1 @@
-<p align="center">
-  <img
-    src="https://readme-chic-banner.wolfbrok.workers.dev/banner?title=Mon%20Projet&subtitle=Ça%20marche%20!"
-    alt="Bannière test"
-  />
-</p>
+![Bannière de test](https://readme-chic-banner.wolfbrok.workers.dev/banner?title=Hello&subtitle=World)
