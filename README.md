@@ -1,5 +1,5 @@
 <!-- 1. Bordure intérieure verte épaisse, texte à gauche -->
-![Fancy SVG – Border Intérieure Vert, Left](https://readme-chic-banner.wolfbrok.workers.dev/?template=fancy&w=800&h=200&bgImageUrl=https%3A%2F%2Fvia.placeholder.com%2F800x200&borderRadius=20)
+![Fancy SVG – Border Intérieure Vert, Left](https://readme-chic-banner.wolfbrok.workers.dev/?template=fancy&w=800&h=200&bgImageUrl=https%3A%2F%2Fwww.francetvinfo.fr%2Fpictures%2F7Mfddh0ZuJ34J74t_GbJD1aGjlg%2F1200x900%2F2022%2F05%2F11%2FphpnHw2Eo.jpg&borderRadius=20)
 
 <!-- 2. Coins très arrondis, bordure noire fine, texte centré -->
 ![Fancy SVG – Coins Arrondis, Center](https://readme-chic-banner.wolfbrok.workers.dev/?template=fancy&h=200&w=600&title=Ronds&subtitle=Fine%20Border&borderRadius=50&borderColor=%23000000&borderWidth=2&textAlign=center)
