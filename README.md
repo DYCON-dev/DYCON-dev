@@ -1,9 +1,9 @@
-![b1](https://readme-chic-banner.wolfbrok.workers.dev/?template=fancy&w=600&h=200&c1=%23d4d4d8&borderRadius=b1&borderWidth=3&borderColor=%23090909&title=b1)
+![b1](https://readme-chic-banner.wolfbrok.workers.dev/?template=fancy&w=600&h=200&c1=%23d4d4d8&borderRadius=b1d&borderWidth=3&borderColor=%23090909&title=b1)
 
 
-![b2](https://readme-chic-banner.wolfbrok.workers.dev/?template=fancy&w=600&h=200&c1=%23d4d4d8&borderRadius=b2&borderWidth=3&borderColor=%23090909&title=b2)
+![b2](https://readme-chic-banner.wolfbrok.workers.dev/?template=fancy&w=600&h=200&c1=%23d4d4d8&borderRadius=b2d&borderWidth=3&borderColor=%23090909&title=b2)
 
-![b3](https://readme-chic-banner.wolfbrok.workers.dev/?template=fancy&w=600&h=200&c1=%23d4d4d8&borderRadius=b3&borderWidth=3&borderColor=%23090909&title=b3)
+![b3](https://readme-chic-banner.wolfbrok.workers.dev/?template=fancy&w=600&h=200&c1=%23d4d4d8&borderRadius=bd3&borderWidth=3&borderColor=%23090909&title=b3)
 
 ![b4](https://readme-chic-banner.wolfbrok.workers.dev/?template=fancy&w=600&h=200&c1=%23d4d4d8&borderRadius=b4&borderWidth=3&borderColor=%23090909&title=b4)
 
