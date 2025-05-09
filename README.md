@@ -11,4 +11,7 @@
 
 ![Medium Text Only](https://readme-chic-banner.wolfbrok.workers.dev/?template=badge&size=medium&text=Only%20Text&borderRadius=b2&contentAlign=center)
 
-![Large Text Only](https://readme-chic-banner.wolfbrok.workers.dev/?template=badge&size=medium&text=OnlyText&borderRadius=b2&contentAlign=center)
+![Large Text Only](https://readme-chic-banner.wolfbrok.workers.dev/?template=badge&size=large&bgImageUrl=https%3A%2F%2Fraw.githubusercontent.com%2FDYCON-dev%2FDYCON-dev%2Fmain%2FNestWarediscord.png&borderRadius=b3&borderWidth=4&borderColor=secondaire)
+
+
+![Green Background Badge](https://readme-chic-banner.wolfbrok.workers.dev/?template=badge&size=medium&text=NestWare&bgColor=succes&textColor=contenuFond&borderRadius=b3&borderWidth=2&borderStyle=solid&contentAlign=center)
