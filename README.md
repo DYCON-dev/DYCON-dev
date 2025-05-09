@@ -1,1 +1,1 @@
-![Bannière personnalisée Dycon](https://readme-chic-banner.wolfbrok.workers.dev/banner?w=900&h=250&c1=%23ff4e50&c2=%23f9d423&r=30&title=Dycon&subtitle=Développeur%20%26%20Designer&fs1=48&fs2=24&font=Verdana&col1=%23fff8e1&col2=%23e5c07b)
+![Bannière personnalisée Dycon](https://readme-chic-banner.wolfbrok.workers.dev/?template=fancy&w=600&h=150&c1=%232a9d8f&r=12&title=Salut%20le%20Monde
