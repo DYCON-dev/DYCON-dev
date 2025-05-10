@@ -1,2 +1,2 @@
-![wrap](https://readme-chic-banner.wolfbrok.workers.dev/?template=block&w=400&text=Top%20Left&hAlign=left&vAlign=top)
-![wrap](https://readme-chic-banner.wolfbrok.workers.dev/?template=block&w=400&text=Top%20Left&hAlign=left&vAlign=top)
+![wrap](https://readme-chic-banner.wolfbrok.workers.dev/?template=block&percent=50%25&text=Half%20Size&hAlign=center&vAlign=middle)
+![wrap](https://readme-chic-banner.wolfbrok.workers.dev/?template=block&percent=50%25&text=Half%20Size&hAlign=center&vAlign=middle)
