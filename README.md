@@ -1,1 +1,1 @@
-![Bloc Auto](https://readme-chic-banner.wolfbrok.workers.dev/?template=block&title=Auto%20Block&description=Remplit%20l'espace&horizontalAlign=center&verticalAlign=middle&fsTitle=24&fsDesc=14)
+![Bloc A](https://readme-chic-banner.wolfbrok.workers.dev/?template=block&w=300&h=200&title=Bloc%20A&description=Texte%20A&horizontalAlign=left&verticalAlign=middle&fsTitle=20&fsDesc=12) ![Bloc B](https://readme-chic-banner.wolfbrok.workers.dev/?template=block&w=300&h=200&title=Bloc%20B&description=Texte%20B&horizontalAlign=right&verticalAlign=middle&fsTitle=20&fsDesc=12)
