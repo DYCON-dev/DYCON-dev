@@ -1,9 +1,1 @@
-# Deux blocs côte-à-côte
-
-<p align="center">
-  <img
-    src="https://readme-chic-banner.wolfbrok.workers.dev/?template=block&w=400&text=Bloc%201&hAlign=center&vAlign=middle"
-    width="50%" alt="Bloc 1" /><img
-    src="https://readme-chic-banner.wolfbrok.workers.dev/?template=block&w=400&text=Bloc%202&hAlign=center&vAlign=middle"
-    width="50%" alt="Bloc 2" />
-</p>
+![100 % × 100 %](https://readme-chic-banner.wolfbrok.workers.dev/?template=block&percent=100&percentHeight=100&text=Full%20Size&hAlign=center&vAlign=middle)
