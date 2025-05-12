@@ -1,1 +1,1 @@
-![Bloc Anti-Cache](https://readme-chic-banner.wolfbrok.workers.dev/?template=block&w=400&h=200&title=AntiCache&description=Rechargement%20unique&horizontalAlign=center&verticalAlign=middle&fsTitle=24&fsDesc=14&cb=1715548800000)
+![Bloc Anti-Cache](https://readme-chic-banner.wolfbrok.workers.dev/?template=block&title=Auto%20Block&description=Anti-cache&horizontalAlign=center&verticalAlign=middle&fsTitle=24&fsDesc=14&cb=1715550000000)
